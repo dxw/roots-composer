@@ -1,0 +1,16 @@
+{
+    "name": "dxw/roots-composer",
+    "description": "Roots in a Composer module!",
+    "homepage": "https://github.com/dxw/roots-composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tom Adams",
+            "email": "tom@dxw.com",
+            "homepage": "http://dxw.com"
+        }
+    ],
+    "autoload": {
+        "files": ["autoload.php"]
+    }
+}
